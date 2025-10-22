@@ -69,8 +69,7 @@ MediTrackApp/
 │   ├── lab_chronic_insights.py   # Lab and chronic disease data visualization
 │   └── about.py                  # Developer and project information page
 │
-├── assets/                       # Folder for static files and media
-│   └── my_pics.jpg               # Copy your profile image here
+├── requirements.txt
 │
 └── README.md                     # Project documentation file
 
