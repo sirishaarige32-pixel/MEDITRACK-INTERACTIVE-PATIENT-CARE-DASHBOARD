@@ -55,7 +55,26 @@ ________________________________________
 📦 Required Libraries
 Install all dependencies:
 pip install streamlit pandas matplotlib plotly seaborn
-▶️ Run the Application
+create the folder structure by downloading the files
+FOLDER STRUCTURE:
+MediTrackApp/
+│
+├── app.py                        # Main entry point for the Streamlit app
+├── utils.py                      # Helper functions and configurations
+│
+├── pages/                        # Contains different dashboard modules
+│   ├── home.py                   # Home page with overview and patient search
+│   ├── dashboard_page.py         # Visual analytics dashboard
+│   ├── prescription_insights.py  # Prescription analytics and trends
+│   ├── lab_chronic_insights.py   # Lab and chronic disease data visualization
+│   └── about.py                  # Developer and project information page
+│
+├── assets/                       # Folder for static files and media
+│   └── my_pics.jpg               # Copy your profile image here
+│
+└── README.md                     # Project documentation file
+
+▶️ Run the Application 
 streamlit run app.py
 🌐 Access
 After launching, open your browser at:
