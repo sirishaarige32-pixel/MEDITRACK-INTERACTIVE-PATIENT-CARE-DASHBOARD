@@ -86,6 +86,6 @@ ________________________________________
 ________________________________________
 🧑‍💻 Author
 A. Sirisha
-B.Pharmacy Student
+Doctor of pharmacy Student
 Shri Vishnu College of Pharmacy
 📧 Contact: 321002@svcp.edu.in
